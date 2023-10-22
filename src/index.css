@@ -168,7 +168,7 @@ nav .list-styled {
   width: auto;
   height: 44px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   list-style: none;
 }
 
